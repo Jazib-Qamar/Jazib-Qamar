@@ -25,7 +25,7 @@ I’m a passionate Graduate Wireless Research Scientist with a strong foundation
 - **Resource Allocation in Radio Acess Networks (RAN)**
 - **Reinforcement Learning based Power Allocation in Active RIS**
 - **UAV's Detection using YOLOv and Audio Signature**
-- And many more...
+
 
 You can reach out to me via email at:
 - jazibqamar54@gmail.com
