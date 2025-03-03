@@ -13,9 +13,8 @@ I’m a passionate Graduate Wireless Research Scientist with a strong foundation
 - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 - ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 - ![IoT](https://img.shields.io/badge/IoT-AE8B60?style=flat-square&logo=iot&logoColor=white) (Node-RED, AWS, Thingspeak)
-- ![SolidWorks](https://img.shields.io/badge/SolidWorks-FC0D1B?style=flat-square&logo=solidworks&logoColor=white)
 - ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-- NI Multisim, ISE Xilinx, STM32CubeMX, Keil uVision, COMSOL
+- NI Multisim,COMSOL
 
 #### Projects
 
