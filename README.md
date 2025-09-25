@@ -42,6 +42,6 @@ Feel free to connect with me on:
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/>
 </a>
 
-Despite my tough exterior, I have a surprisingly soft-hearted and compassionate side. I also have a deep appreciation for subcontinental music 🎶. I’d love to connect with people who share similar interests or are curious about these fields.
+
 
 He/Him
