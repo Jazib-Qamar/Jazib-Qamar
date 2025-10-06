@@ -28,7 +28,7 @@ I’m a passionate wireless researcher  with a strong foundation in IoT and comm
 
 You can reach out to me via email at:
 - jazibqamar54@gmail.com
-- jazzq51@gmail.com
+- mjazib@olemiss.edu
 
 Feel free to connect with me on:
 
