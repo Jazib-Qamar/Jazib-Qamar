@@ -35,12 +35,7 @@ Feel free to connect with me on:
 <a href="https://www.linkedin.com/in/jazib-qamar-776309203/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
 </a>
-<a href="https://www.instagram.com/nerd_jazz?utm_source=qr&igshid=MTllZGkxbXJ3dDhoaQ==" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
-</a>
-<a href="https://www.facebook.com/share/11taHhzCzBgdkEm4/?mibextid=qi2Omg" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/>
-</a>
+
 
 
 
